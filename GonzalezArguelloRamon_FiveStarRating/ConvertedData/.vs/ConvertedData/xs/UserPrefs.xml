@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FAF19071-34C4-4CD2-A7AB-0A2EC74A294D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConvertedData/Data Visualization 2/DrawStars.cs">
+    <Files>
+      <File FileName="ConvertedData/DrawStars.cs" Line="14" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConvertedData" expanded="True">
+            <Node name="ConvertedData" expanded="True">
+              <Node name="Data Visualization 2" expanded="True">
+                <Node name="DrawStars.cs" selected="True" />
+              </Node>
+              <Node name="Menus" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConvertedData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
