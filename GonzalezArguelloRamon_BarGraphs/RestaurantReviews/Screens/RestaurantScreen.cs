@@ -31,10 +31,12 @@ namespace RestaurantReviews.Screens
       ChartHelper = new ChartHelper();
       Options = new[]
       {
-        "[1] Show Average of Reviews for Restaurants",
-        "[2] Dinner Spinner",
-        "[3] Top 10 Restaurants",
-        "[4] Back to Main Menu"
+        "\r\n",
+        "\t[1] Show Average of Reviews for Restaurants",
+        "\t[2] Dinner Spinner",
+        "\t[3] Top 10 Restaurants",
+        "\r\n",
+        "\t[4] Back to Main Menu"
       };
       Random = new Random();
       GoBackToWelcomeMenu = goBackToWelcomeMenu;
@@ -100,7 +102,10 @@ namespace RestaurantReviews.Screens
       // take the array of options, join it by line breaks creating 
       // a paragraph and print it directly to the screen
       Console.WriteLine(string.Join("\n", Options));
-      Console.Write("Enter your choice: ");
+      Console.Write("\r\n");
+      Console.WriteLine("=============================================" +
+                        "=========================");
+      Console.Write("Make your selection: ");
       Selection = Convert.ToInt32(Console.ReadLine());
       ProcessSelection();
     }
@@ -237,8 +242,8 @@ namespace RestaurantReviews.Screens
     {
       // new random rating value
       return Random.NextRandom(
-        (double) ApplicationConfig.RANDOM_LIMITS["min"],
-        (double) ApplicationConfig.RANDOM_LIMITS["max"]);
+        (double)ApplicationConfig.RANDOM_LIMITS["min"],
+        (double)ApplicationConfig.RANDOM_LIMITS["max"]);
     }
 
     /// <summary>

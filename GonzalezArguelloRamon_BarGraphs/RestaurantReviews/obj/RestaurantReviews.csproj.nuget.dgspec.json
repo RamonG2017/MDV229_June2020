@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/RestaurantReviews/RestaurantReviews/RestaurantReviews.csproj": {}
+    "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_BarGraphs/RestaurantReviews/RestaurantReviews.csproj": {}
   },
   "projects": {
-    "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/RestaurantReviews/RestaurantReviews/RestaurantReviews.csproj": {
+    "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_BarGraphs/RestaurantReviews/RestaurantReviews.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/RestaurantReviews/RestaurantReviews/RestaurantReviews.csproj",
+        "projectUniqueName": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_BarGraphs/RestaurantReviews/RestaurantReviews.csproj",
         "projectName": "RestaurantReviews",
-        "projectPath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/RestaurantReviews/RestaurantReviews/RestaurantReviews.csproj",
+        "projectPath": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_BarGraphs/RestaurantReviews/RestaurantReviews.csproj",
         "packagesPath": "/Users/ramongonzalezarguello/.nuget/packages/",
-        "outputPath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/RestaurantReviews/RestaurantReviews/obj/",
+        "outputPath": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_BarGraphs/RestaurantReviews/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
