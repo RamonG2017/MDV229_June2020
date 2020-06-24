@@ -123,12 +123,15 @@ namespace RestaurantReviews.Screens
           MainMenu();
           break;
         case 1:
+          Console.Clear();
           ShowAverageReviews();
           break;
         case 2:
+          Console.Clear();
           DinnerSpinner();
           break;
         case 3:
+          Console.Clear();
           TopTen();
           break;
         case 4:
@@ -153,9 +156,7 @@ namespace RestaurantReviews.Screens
       Console.Clear();
       var topTenRestaurants = TopTenRestaurants();
       var sortRestaurants = topTenRestaurants.OrderByDescending(s => s.AverageRating()).Take(10);
-      // print options in a fancy way
-      Console.WriteLine(string.Join("\n", Options));
-      Console.WriteLine($"Enter your choice: {Selection}");
+
       foreach (var restaurant in sortRestaurants)
       {
         Console.WriteLine($"{restaurant.RestaurantName} - Rating: {restaurant.HumanAverageRating()}");
@@ -208,9 +209,6 @@ namespace RestaurantReviews.Screens
       // get random values
       var rating = RandomRating();
       var restaurant = RandomRestaurant();
-      // print options in a fancy way
-      Console.WriteLine(string.Join("\n", Options));
-      Console.WriteLine($"Enter your choice: {Selection}");
       // print random restaurant information
       Console.WriteLine($"{restaurant.RestaurantName} - Rating: {restaurant.HumanAverageRating()}");
       // animate the bar chart
