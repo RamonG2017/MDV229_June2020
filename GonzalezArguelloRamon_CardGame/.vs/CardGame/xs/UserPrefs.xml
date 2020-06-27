@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{62E91AF2-CDF7-4BC8-A7D1-0ED08D85DD4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Screens/CardGameScreen.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Screens/CardGameScreen.cs" Line="1" Column="1" />
+      <File FileName="Models/CardPlayer.cs" />
+      <File FileName="Screens/IVisualizationOption.cs" />
+      <File FileName="Helpers/DeckHelper.cs" Line="130" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardGame" expanded="True">
+            <Node name="CardGame" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Screens" expanded="True">
+                <Node name="CardGameScreen.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CardGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

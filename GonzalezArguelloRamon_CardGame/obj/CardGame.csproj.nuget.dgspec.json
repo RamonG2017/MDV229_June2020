@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj": {}
+  },
+  "projects": {
+    "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj",
+        "projectName": "CardGame",
+        "projectPath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj",
+        "packagesPath": "/Users/ramongonzalezarguello/.nuget/packages/",
+        "outputPath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ramongonzalezarguello/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

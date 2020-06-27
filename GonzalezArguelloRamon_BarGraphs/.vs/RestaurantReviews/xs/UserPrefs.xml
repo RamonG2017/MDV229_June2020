@@ -1,21 +1,15 @@
 ﻿<Properties StartupConfiguration="{D22E0E77-59D6-488C-BD2D-A7656EE9358D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantReviews/Screens/RestaurantScreen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantReviews/Program.cs">
     <Files>
-      <File FileName="RestaurantReviews/Models/RestaurantReview.cs" Line="1" Column="1" />
-      <File FileName="RestaurantReviews/Screens/RestaurantScreen.cs" Line="267" Column="2" />
-      <File FileName="RestaurantReviews/Helpers/JSONHelper.cs" />
-      <File FileName="RestaurantReviews/Program.cs" />
-      <File FileName="RestaurantReviews/Screens/Welcome.cs" />
-      <File FileName="RestaurantReviews/Screens/RatingSystemScreen.cs" />
+      <File FileName="RestaurantReviews/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RestaurantReviews" expanded="True">
             <Node name="RestaurantReviews" expanded="True">
-              <Node name="Screens" expanded="True">
-                <Node name="RestaurantScreen.cs" selected="True" />
-              </Node>
+              <Node name="Screens" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
