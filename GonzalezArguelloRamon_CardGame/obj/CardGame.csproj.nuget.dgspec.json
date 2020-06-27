@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj": {}
+    "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_CardGame/CardGame.csproj": {}
   },
   "projects": {
-    "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj": {
+    "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_CardGame/CardGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj",
+        "projectUniqueName": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_CardGame/CardGame.csproj",
         "projectName": "CardGame",
-        "projectPath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj",
+        "projectPath": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_CardGame/CardGame.csproj",
         "packagesPath": "/Users/ramongonzalezarguello/.nuget/packages/",
-        "outputPath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/obj/",
+        "outputPath": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_CardGame/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

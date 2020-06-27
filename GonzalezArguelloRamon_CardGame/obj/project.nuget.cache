@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AR+99OLKCRRzHEnOf/MFUIp1bMRM+7D9Sbsl4y8Jf8YtNP1MU85TNewJnaywZ7j6xFIb+01lxcc3Hk1X9RKALQ==",
+  "dgSpecHash": "a5yyGHMp61Nd8cUfd4FuvpLV8jTU0tt54/KuNN+/M2MFBqi3nF7vdc/GrL030RfcNHSQioI1JuVZwRjahwhPHw==",
   "success": true,
-  "projectFilePath": "/Users/ramongonzalezarguello/Documents/GitHub/DataVisualization/CardGame/CardGame/CardGame.csproj",
+  "projectFilePath": "/Users/ramongonzalezarguello/Documents/GitHub/MDV229_June2020/GonzalezArguelloRamon_CardGame/CardGame.csproj",
   "expectedPackageFiles": [
     "/Users/ramongonzalezarguello/.nuget/packages/bouncycastle.netcore/1.8.3/bouncycastle.netcore.1.8.3.nupkg.sha512",
     "/Users/ramongonzalezarguello/.nuget/packages/google.protobuf/3.6.1/google.protobuf.3.6.1.nupkg.sha512",

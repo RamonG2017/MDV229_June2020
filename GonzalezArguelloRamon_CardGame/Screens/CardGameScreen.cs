@@ -99,6 +99,7 @@ namespace CardGame.Screens
     /// </summary>
     private void PrintResult()
     {
+      DeckHelper.Get();
       Console.Clear();
       var scoreChecker = 0;
       // sort winners
