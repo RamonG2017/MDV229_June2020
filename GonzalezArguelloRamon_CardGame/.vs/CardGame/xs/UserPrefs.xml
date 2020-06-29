@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
       <File FileName="appsettings.json" Line="2" Column="25" />
-      <File FileName="Screens/CardGameScreen.cs" Line="102" Column="24" />
+      <File FileName="Screens/CardGameScreen.cs" />
       <File FileName="Models/CardPlayer.cs" />
       <File FileName="Screens/IVisualizationOption.cs" />
       <File FileName="Helpers/DeckHelper.cs" />

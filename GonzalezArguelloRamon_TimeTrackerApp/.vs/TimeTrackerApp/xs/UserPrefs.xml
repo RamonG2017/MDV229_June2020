@@ -1,23 +1,15 @@
-﻿<Properties StartupConfiguration="{62324ADE-5490-4F10-91EB-21EEEA56A64E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TimeTrackerApp/Constants/WindowSizes.cs">
+﻿<Properties StartupConfiguration="{6FBA4454-F56D-46BA-A95E-F0F93199E376}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.config">
     <Files>
-      <File FileName="TimeTrackerApp/Program.cs" Line="12" Column="6" />
-      <File FileName="TimeTrackerApp/Constants/WindowSizes.cs" Line="12" Column="8" />
+      <File FileName="App.config" Line="6" Column="142" />
+      <File FileName="Program.cs" />
+      <File FileName="Screens/Shared.cs" Line="62" Column="42" />
+      <File FileName="Helpers/PersistenceData.cs" />
+      <File FileName="Helpers/LoginHelper.cs" />
+      <File FileName="Screens/TrackedData.cs" />
+      <File FileName="Helpers/DbHelper.cs" />
+      <File FileName="Screens/Activities.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="TimeTrackerApp" expanded="True">
-            <Node name="TimeTrackerApp" expanded="True">
-              <Node name="Constants" expanded="True">
-                <Node name="WindowSizes.cs" selected="True" />
-              </Node>
-              <Node name="Helpers" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
